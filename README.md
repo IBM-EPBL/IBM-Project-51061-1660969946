@@ -3,10 +3,10 @@
 Project Title: SmartFarmer - IoT Enabled Smart Farming Application
 
 Team Members: 
-Kesavabharathi P (611719104010)
-Nithi GD (611719104010)
-Vasanth Kumar (611719104041)
-Madhavan M (611719104011)
+Kesavabharathi Pilot (611719104010)
+Nithi G D (611719104010)
+Vasanth Kumar M (611719104041)
+Madhavan C.S (611719104011)
 
 College : Narasu's Sarathy Institute of Technology
 Faculty Mentor: PRAKASH KUMAR M
